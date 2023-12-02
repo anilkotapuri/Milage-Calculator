@@ -1,0 +1,84 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@400;500&display=swap" rel="stylesheet">
+.{
+  font-family: 'Inknut Antiqua', serif;
+}
+.hi{
+    text-align: center;
+    justify-content: center;
+    font-family: 'Inknut Antiqua', serif;
+    font-size: 50px;
+  }
+  .inner{
+    margin: 10% 10%;
+    width: 1200px;
+    height: 400px;
+    background-color: #ffffff;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    position:fixed;
+    font-size: 15px;
+    margin-top: 1%;
+  }
+  .img{
+    width: 59%;
+    margin-top: -10%;
+    margin-bottom: -32%;
+    margin-right: -80%;
+    position:relative;
+  }
+  
+  select{
+    color: #ffffff;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color:#003566;
+    margin-left: 10%;
+    margin-right: 100%;
+    margin-top: 2%;
+
+  }
+  input{
+    background-color: #003566;
+    width: 300px;
+    height: 50px;
+    color: #ffffff;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 100%;
+    margin-top: -5%;  
+    font-size: 20px;
+  }
+  .km{
+    margin-left: -60%;
+    margin-bottom: 2%;
+  }
+  .models{
+    color: #ffffff;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color:#003566;
+    margin-left: 10%;
+    margin-right: 100%;
+    margin-top: -5%;
+  }
+  button{
+    color: #ffffff;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    background-color:#003566;
+    margin-right: -30%;
+    font-size: 20px;
+  }
+  .re{
+    margin-right: 100%;
+    height:20% ;
+    margin-left: 70%;
+    color: #ffffff;
+  }
